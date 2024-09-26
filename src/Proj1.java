@@ -7,5 +7,6 @@ public class Proj1 {
             System.exit(0);
         }
         new Parser(args[0]);
+
     }
 }
